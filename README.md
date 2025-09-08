@@ -31,6 +31,7 @@ Dự án **EDA Portfolio** là bộ sưu tập các phân tích khám phá dữ 
 │   ├── 01-titanic-eda.ipynb
 │   ├── 02-iris-eda.ipynb
 │   ├── 03-housing-eda.ipynb
+│   ├── 03-house-sales-eda.ipynb
 │   ├── 04-sales-eda.ipynb
 │   └── 05-customer-eda.ipynb
 ├── data/
@@ -64,6 +65,11 @@ Dự án **EDA Portfolio** là bộ sưu tập các phân tích khám phá dữ 
 - **Nguồn**: California Housing (sklearn) hoặc Ames Housing (Kaggle)
 - **Mục tiêu**: Phân tích dữ liệu bất động sản
 - **Kỹ thuật**: Phân tích giá nhà, correlation với location
+
+### 3.1. **House Sales in King County** 🏘️
+- **Nguồn**: [Kaggle House Sales in King County](https://www.kaggle.com/datasets/shree1992/housedata)
+- **Mục tiêu**: Phân tích dữ liệu bất động sản King County, Washington
+- **Kỹ thuật**: Phân tích giá nhà, correlation với features, geographic analysis
 
 ### 4. **Sales Dataset** 💰
 - **Nguồn**: Kaggle Sales Data hoặc synthetic data
